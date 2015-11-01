@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FavouitePlace/PhotosVC.swift"
+            timestampString = "468017316.215499"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FavouitePlace.PhotosVC.__deallocating_deinit"
+                  moduleName = "FavouitePlace"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ian/Desktop/UDEMY/Lectures/FavouitePlace/FavouitePlace/PhotosVC.swift"
+                  timestampString = "468017584.70366"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FavouitePlace.PhotosVC.init (FavouitePlace.PhotosVC.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; FavouitePlace.PhotosVC"
+                  moduleName = "FavouitePlace"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ian/Desktop/UDEMY/Lectures/FavouitePlace/FavouitePlace/PhotosVC.swift"
+                  timestampString = "468017584.703855"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "58">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FavouitePlace.PhotosVC.init (FavouitePlace.PhotosVC.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;FavouitePlace.PhotosVC&gt;"
+                  moduleName = "FavouitePlace"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Ian/Desktop/UDEMY/Lectures/FavouitePlace/FavouitePlace/PhotosVC.swift"
+                  timestampString = "468017584.703991"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
